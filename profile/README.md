@@ -25,6 +25,6 @@ Our consulting services focus on application modernization, user adoption, and s
 We'd love to hear from you! Whether you have questions or want to discuss how we can work together, feel free to reach out.
 
 - **Website**: [CXE Global](https://www.cxeglobal.com)
-- **Email**: contact@cxeglobal.com
+- **Email**: consulting@cxeglobal.com
 
 Thank you for visiting our GitHub profile! Let’s drive transformation together! 🚀
